@@ -1,0 +1,86 @@
+{
+  "C5N2": {
+    "niterations": 150,
+    "population_size": 600,
+    "maxsize": 12,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "unary_operators": [
+      "exp"
+    ]
+  },
+  "C6N2": {
+    "niterations": 120,
+    "population_size": 800,
+    "maxsize": 10,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "unary_operators": [
+      "exp",
+      "sqrt"
+    ]
+  },
+  "C7N2": {
+    "niterations": 150,
+    "population_size": 600,
+    "maxsize": 14,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "unary_operators": []
+  },
+  "C9N2": {
+    "niterations": 150,
+    "population_size": 600,
+    "maxsize": 12,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "unary_operators": []
+  },
+  "C10N2": {
+    "niterations": 120,
+    "population_size": 800,
+    "maxsize": 24,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/"
+    ],
+    "unary_operators": [
+      "exp",
+      "sqrt"
+    ]
+  },
+  "C12N2": {
+    "niterations": 120,
+    "population_size": 800,
+    "maxsize": 10,
+    "binary_operators": [
+      "+",
+      "-",
+      "*",
+      "/",
+      "^"
+    ],
+    "unary_operators": [
+      "exp",
+      "sqrt"
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the original experimental sources listed in README.md."
+type: software
+title: "Symbolic PR-EOS: notebooks for nitrogen and n-alkane VLE"
+repository-code: "https://github.com/Kim4853/Symbolic-PR-EOS"
+authors:
+  - family-names: Kim
+    given-names: Bongseok
+  - family-names: Chakraborty
+    given-names: Suman
+  - family-names: Huang
+    given-names: Gary
+  - family-names: Mathur
+    given-names: Mehek
+  - family-names: Lin
+    given-names: Guang
+  - family-names: Qiao
+    given-names: Li

@@ -1,0 +1,3 @@
+-r requirements.txt
+# PySR uses Julia through juliacall; initial setup may access the network.
+pysr==1.5.8

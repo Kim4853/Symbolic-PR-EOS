@@ -1,0 +1,9 @@
+# Plotting, baseline calculation, and shared-model training. Python 3.10+.
+numpy>=1.24,<2
+pandas>=2.0,<3
+scipy>=1.10,<2
+matplotlib>=3.7,<4
+sympy>=1.12,<2
+torch>=2.0,<3
+jupyterlab>=4,<5
+ipykernel>=6,<7
