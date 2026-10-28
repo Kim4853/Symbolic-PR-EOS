@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+outputs/
+# Code-only distribution: user data, predictions, weights and scientific images.
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
